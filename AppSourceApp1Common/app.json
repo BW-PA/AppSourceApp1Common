@@ -8,6 +8,7 @@
   "privacyStatement": "http://www.XD1.com/privacy",
   "EULA": "http://www.XD1.com/eula",
   "help": "http://www.XD1.com/help",
+  "contextSensitiveHelpUrl": "http://www.XD1.com/contexthelp",
   "url": "http://www.XD1.com",
   "logo": "logo.jpg",
   "dependencies": [],

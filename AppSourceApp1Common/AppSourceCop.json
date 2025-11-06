@@ -1,4 +1,4 @@
 {
-    "mandatoryAffixes": [ "TSTC" ],
+    "mandatoryAffixes": ["TSTC"],
     "supportedCountries": ["AU"]
 }
