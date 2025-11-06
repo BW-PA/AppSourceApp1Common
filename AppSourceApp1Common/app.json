@@ -3,13 +3,13 @@
   "name": "AppSourceApp1Common",
   "publisher": "Testing",
   "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
+  "brief": "Testing ALGO Dependency Probing paths",
+  "description": "Testing ALGO Dependency Probing paths",
+  "privacyStatement": "http://www.XD1.com/privacy",
+  "EULA": "http://www.XD1.com/eula",
+  "help": "http://www.XD1.com/help",
+  "url": "http://www.XD1.com",
+  "logo": "logo.jpg",
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
@@ -21,7 +21,8 @@
     }
   ],
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith",
+    "TranslationFile"
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
